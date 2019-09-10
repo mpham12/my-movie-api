@@ -1,0 +1,35 @@
+[
+    {   "Id": 1,
+        "Movie": "The Lion King1",
+        "score": 9,
+        "author": "MANH",
+        "director": "Pham",
+        "runtime": "2h 16m",
+        "releaseddate": 2018
+    },
+    {   "id":2,
+        "Movie": "The Lion King2",
+        "score": 9,
+        "author": "MANH",
+        "director": "Pham",
+        "runtime": "2h 16m",
+        "releaseddate": 2018
+    },
+    {   "id":3,
+        "Movie": "The Lion King3",
+        "score": 9,
+        "author": "MANH",
+        "director": "Pham",
+        "runtime": "2h 16m",
+        "releaseddate": 2018
+    },
+    {   "id":4,
+        "Movie": "The Lion King4",
+        "score": 9,
+        "author": "MANH",
+        "director": "Pham",
+        "runtime": "2h 16m",
+        "releaseddate": 2018
+    }
+
+]
